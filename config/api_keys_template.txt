@@ -1,0 +1,4 @@
+# Put any external API keys here and DO NOT commit the real version.
+# Example:
+# OPENAI_API_KEY=your_api_key_here
+# DEEPL_API_KEY=your_deepl_key_here
