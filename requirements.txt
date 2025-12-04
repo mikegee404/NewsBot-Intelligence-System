@@ -1,0 +1,24 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+nltk
+spacy==3.7.2
+vaderSentiment
+textblob
+nrclex
+langdetect
+googletrans==4.0.0rc1
+sentence-transformers
+
+transformers
+torch
+
+jupyter
+ipykernel
+
+wordcloud
+streamlit  # optional if you add a web UI later
+joblib
